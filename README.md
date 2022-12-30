@@ -11,8 +11,6 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-for
 
 
 ## Outcome :white_check_mark:
-I created an Etch a Sketch (user is able to draw on a sketchpad).
-
 | Website | Link | 
 | ------------- | ------------- | 
 | CodePen demo | https://codepen.io/iVuDang/pen/NWGEzOm | 
