@@ -3,7 +3,7 @@
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
 
 ## Preview:
-<img src="https://raw.githubusercontent.com/iVuDang/freeCodeCamp-Build-a-Survey-Form/main/Build%20a%20survey%20form%20preview.png" width=75% height=75%>
+<img src="https://raw.githubusercontent.com/iVuDang/freeCodeCamp-Build-a-Survey-Form/main/Build%20a%20survey%20form%20preview.png" width=100% height=100%>
 
 ## Technologies: 
 * HTML
