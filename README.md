@@ -3,7 +3,7 @@
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
 
 ## Preview:
-<img src="https://raw.githubusercontent.com/iVuDang/The-Odin-Project-Etch-a-Sketch/07f76818592eb03c74305eb8d1b550363e54ada2/Etch-a-Sketch-iVuDang.png" width=75% height=75%>
+<img src="https://raw.githubusercontent.com/iVuDang/freeCodeCamp-Build-a-Survey-Form/main/Build%20a%20survey%20form%20preview.png" width=75% height=75%>
 
 ## Technologies: 
 * HTML
